@@ -1,0 +1,70 @@
+Cluster 1:
+ good: 206
+ tast: 450
+ flavor: 190
+ price: 353
+ great: 211
+
+Cluster 2:
+ cat: 68
+ food: 192
+ eat: 154
+ love: 273
+ treat: 469
+
+Cluster 3:
+ sauc: 389
+ oil: 310
+ cook: 107
+ salt: 385
+ popcorn: 344
+
+Cluster 4:
+ coffe: 93
+ cup: 121
+ flavor: 190
+ tast: 450
+ roast: 380
+
+Cluster 5:
+ product: 357
+ great: 211
+ tast: 450
+ love: 273
+ good: 206
+
+Cluster 6:
+ water: 484
+ tast: 450
+ drink: 148
+ peanut: 326
+ butter: 56
+
+Cluster 7:
+ tast: 450
+ flavor: 190
+ love: 273
+ great: 211
+ drink: 148
+
+Cluster 8:
+ chocol: 83
+ chip: 82
+ bar: 24
+ cooki: 108
+ snack: 413
+
+Cluster 9:
+ amazon: 12
+ order: 317
+ store: 435
+ price: 353
+ find: 185
+
+Cluster 10:
+ dog: 145
+ treat: 469
+ food: 192
+ love: 273
+ chew: 78
+
